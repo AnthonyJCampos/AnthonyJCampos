@@ -5,6 +5,8 @@
 
 - Wix-Website-Member-Directory: This is my current project, and you can find a video demonstration of the directory in development. There is an accompany readme that will outline the features and design choices on display in the video demo. 
 
+- JavaScript-Projects: This repo contains exploratory projects where explore different features of the JavaScript language and how I can utilize them in Frontend development. Current projects in the folder are: Guess Number Game, Bankist App,  Bankist Marketing Page.
+
 - Java-Projects: Here you can find a Sudoku Solver with a complete GUI that utilizing a holistic back tracking technique to solve Sudoku puzzles. The process has been slowed down so that a user can visual/witness the steps the algorithm takes to solve a provided puzzle. If you’d like to test the app please check out the Sample Puzzles.txt containing verified puzzles in String format. There is also a video demo. 
 
 - Symbolic-Algebra-Calculator: This was a learning project utilizing C++ to increase my understanding of data structures and memory management. It implements stacks, trees, and a tokenizer to process input. You can find more information in the readme included in the folder. 
