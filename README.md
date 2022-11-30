@@ -3,7 +3,7 @@
 - I’m currently developing a Member Directory for a not profit organization utilizing JavaScript.   
 - I utilize my GitHub for displaying ongoing and current projects as well as place for me to explore new technologies. If you are interested in exploring some of the projects, I’ve developed please see the following repositories:
 
-- Wix-Website-Member-Directory: This is my current project, and you can find a video demonstration of the directory in development. There is an accompany readme that will outline the features and design choices on display in the video demo. 
+- Wix-Website-Member-Directory: This is my current project, and you can find a video demonstration of the directory in development. There is an accompanying readme that will outline the features and design choices on display in the video demo. 
 
 - JavaScript-Projects: This repo contains exploratory projects where explore different features of the JavaScript language and how I can utilize them in Frontend development. Current projects in the folder are: Guess Number Game, Bankist App,  Bankist Marketing Page.
 
