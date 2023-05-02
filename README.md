@@ -22,6 +22,6 @@ Major Projects:
 
 Simple Projects
 
-JavaScript-Projects: This repo contains exploratory simple projects where I explore different features of the JavaScript language and how I can utilize them in frontend development. Current projects in the folder are: Guess Number Game, Bankist App, Bankist Marketing Page.
+- JavaScript-Projects: This repo contains exploratory simple projects where I explore different features of the JavaScript language and how I can utilize them in frontend development. Current projects in the folder are: Guess Number Game, Bankist App, Bankist Marketing Page.
 
 
